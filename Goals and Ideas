@@ -1,0 +1,6 @@
+The end goal of this prroject is to build a laser system guided by Sonar.
+
+Current Ideas:
+* Implement a basic state to take measurements from in order to teach the Machine Learning Algorithm.
+* Maybe use joystick to give good data for it to use.
+* Create a stronger mounting system for the sonar to be more accurate.
